@@ -56,3 +56,56 @@
     width: 400px;
     margin-bottom: 15px;
 }
+.plan-header{
+    text-align: center;
+}
+.plan-header-description{
+    text-align: center;
+}
+.plan-container{
+    display: flex;
+}
+.plan-A{
+    background: gray;
+    text-align: left;
+    padding: 50px 20px;
+    margin: 20px 70px;
+}
+.plan-B{
+    background: peachpuff;
+    text-align: left;
+    padding: 50px 20px;
+    margin: 20px;
+}
+.plan-C{
+    background: palevioletred;
+    text-align: left;
+    padding: 50px 20px;
+    margin: 20px 70px;
+}
+.plan-title{
+    font-size: 20px;
+}
+.your-donation{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.your-donation-dn{
+    
+}
+.need-servive{
+    display: flex;
+}
+.servive-container{
+    
+}
+.get-me{
+    text-align: center;
+}
+.subscribe{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
