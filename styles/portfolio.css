@@ -1,0 +1,26 @@
+.header{
+    height: 400px;
+    text-align: center;
+    background-image: url(../images/donation1.jpg);
+    background-size: cover;
+}
+.header-container{
+    padding: 50px;
+    
+}
+.header-title{
+    color: white;
+    padding: 5px 0px;
+    font-size: 40px;
+}
+.header-description{
+    color: white;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.btn-primary{
+    background-color: orangered;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
