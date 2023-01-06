@@ -5,7 +5,7 @@
     background-size: cover;
 }
 .header-container{
-    padding: 50px;
+    padding: 70px;
     
 }
 .header-title{
@@ -23,4 +23,36 @@
     border: none;
     padding: 10px 20px;
     color: white;
+}
+.donate-section{
+    text-align: center;
+}
+
+
+.amount-title{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+.amount-box{
+    background-color: rgb(218, 196, 169);
+    padding: 15px 15px;
+    width: 40px;
+
+}
+.amount-box:hover{
+    background-color: rgb(222, 135, 135);
+    border: 2px solid red;
+    cursor: pointer;
+}
+
+.other-amount{
+    text-align: center;
+    margin-top: 30px;
+}
+.hr-underline{
+    width: 400px;
+    margin-bottom: 15px;
 }
